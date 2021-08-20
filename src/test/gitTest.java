@@ -9,7 +9,6 @@ public class gitTest {
         System.out.println("hello git!");
         System.out.println("hello git2!");
         System.out.println("hello git!3");
-        System.out.println("hot-fix");
-        System.out.println("second push");
+        System.out.println("branch2");
     }
 }
